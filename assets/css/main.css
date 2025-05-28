@@ -1291,8 +1291,8 @@ input, select, textarea {
 			}
 
 		#header .logo {
-			width: 1.5rem;
-			height: 1.5rem;
+			width: 5.5rem;
+			height: 5.5rem;
 			line-height: 5.5rem;
 			border: solid 1px #ffffff;
 			border-radius: 100%;
@@ -1332,7 +1332,7 @@ input, select, textarea {
 				text-transform: uppercase;
 				letter-spacing: 0.2rem;
 				font-size: 0.8rem;
-				line-height: 2;
+				line-height: 1;
 			}
 
 		#header nav ul {
@@ -1359,8 +1359,8 @@ input, select, textarea {
 				#header nav ul li a {
 					display: block;
 					min-width: 7.5rem;
-					height: 2.75rem;
-					line-height: 2.75rem;
+					height: 0.75rem;
+					line-height: 0.75rem;
 					padding: 0 1.25rem 0 1.45rem;
 					text-transform: uppercase;
 					letter-spacing: 0.2rem;
@@ -1455,7 +1455,7 @@ input, select, textarea {
 			}
 
 			#header .content p {
-				line-height: 1.875;
+				line-height: 0.875;
 			}
 
 		}
@@ -1490,7 +1490,7 @@ input, select, textarea {
 
 						#header nav ul li a {
 							height: 3rem;
-							line-height: 3rem;
+							line-height: 1rem;
 							min-width: 0;
 							width: 100%;
 						}
