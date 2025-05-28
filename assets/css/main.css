@@ -1332,7 +1332,7 @@ input, select, textarea {
 				text-transform: uppercase;
 				letter-spacing: 0.2rem;
 				font-size: 0.8rem;
-				line-height: 1;
+				line-height: 2;
 			}
 
 		#header nav ul {
@@ -1360,7 +1360,7 @@ input, select, textarea {
 					display: block;
 					min-width: 7.5rem;
 					height: 0.75rem;
-					line-height: 0.75rem;
+					line-height: 2.75rem;
 					padding: 0 1.25rem 0 1.45rem;
 					text-transform: uppercase;
 					letter-spacing: 0.2rem;
@@ -1455,7 +1455,7 @@ input, select, textarea {
 			}
 
 			#header .content p {
-				line-height: 0.875;
+				line-height: 1.875;
 			}
 
 		}
@@ -1490,7 +1490,7 @@ input, select, textarea {
 
 						#header nav ul li a {
 							height: 3rem;
-							line-height: 1rem;
+							line-height: 3rem;
 							min-width: 0;
 							width: 100%;
 						}
