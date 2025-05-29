@@ -1299,10 +1299,18 @@ input, select, textarea {
 		}
 
 			#header .logo .icon:before {
-				font-size: 10rem;
+				font-size: 2rem;
 			
 			}
-		
+		.logo {
+		/* replace this value to a value from Font Awesome icon style*/
+		width: 2rem; 
+		height: 2rem;
+		}
+		.logo__img {
+		display: block;
+		width: 100%;
+		}
 
 		#header .content {
 			border-style: solid;
