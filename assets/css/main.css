@@ -1300,7 +1300,15 @@ input, select, textarea {
 
 			#header .logo .icon:before {
 				font-size: 2rem;
+		}
+
+			#header .logo__img {
+			display: block;
+			width: 100%;
+		}
+			
 			}
+		
 
 		#header .content {
 			border-style: solid;
