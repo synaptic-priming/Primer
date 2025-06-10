@@ -1296,7 +1296,18 @@ input, select, textarea {
 			line-height: 5.5rem;
 			border: solid 1px #ffffff;
 			border-radius: 100%;
-		}
+			display: flex;
+    justify-content: center;
+    align-items: center;
+    overflow: hidden; /* Ensures image doesn't overflow the circle */
+    padding: 0; /* Remove line-height since img replaces text/icon */
+}
+		#header .logo img {
+    max-width: 100%;
+    max-height: 100%;
+    object-fit: contain; /* Keeps aspect ratio */
+    display: block;
+}
 
 			#header .logo .icon:before {
 				font-size: 2rem;
